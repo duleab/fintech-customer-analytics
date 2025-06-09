@@ -1,0 +1,4 @@
+bank,total_reviews,avg_rating,positive_sentiment_pct,negative_sentiment_pct,neutral_sentiment_pct
+CBE,321,4.07,61.1,8.4,30.5
+BOA,344,2.83,39.2,25.3,35.5
+Dashen,366,4.38,72.7,6.8,20.5
